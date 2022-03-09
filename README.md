@@ -1,9 +1,9 @@
-# Hi there I'm Nick 👋
+<h1> Hi there I'm Nick 👋 </h1>
 
-## I'm currently working as a Junior Full Stack Web Developer!
+<h3> I'm currently working as a Junior Full Stack Web Developer! </h3>
 
-## Find me on LinkedIn:
+<h3> Find me on LinkedIn: </h3>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pavlidisnick95/)
+<a href="https://www.linkedin.com/in/pavlidisnick95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavlidisnick95" height="30" width="40" /></a>
 
-<br/>
+
