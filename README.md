@@ -1,6 +1,6 @@
 <h1> Hi there I'm Nick 👋 </h1>
 
-<h3> I'm currently working as a Junior Full Stack Web Developer! </h3>
+<h3> I'm currently working as a Full Stack .NET Web Developer! </h3>
 
 <h3> Find me on LinkedIn: </h3>
 
