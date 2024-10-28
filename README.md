@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.pavlidisnick.CountCash&pli=1">CountCash App</a>
+  <a href="https://play.google.com/store/apps/details?id=com.pavlidisnick.CountCash&pli=1">CountCash Android App</a>
 </p>
 
 <p align="center">
